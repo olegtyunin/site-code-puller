@@ -1,4 +1,4 @@
-##How to deploy
+## How to deploy
 Install MySQL  
 Run mysql: `sudo servise mysql start`  
 Open mysql shell by user and password which were made during installation  
