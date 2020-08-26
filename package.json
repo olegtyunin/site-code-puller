@@ -1,0 +1,17 @@
+{
+  "name": "vacation_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "nodemon --experimental-worker App.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^6.2.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
